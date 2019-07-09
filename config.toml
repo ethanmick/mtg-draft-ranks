@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "MTG Draft Ranks"
+title = "Limited.gg"
 theme = "ananke"
 
 [params]

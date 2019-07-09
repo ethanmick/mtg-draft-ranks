@@ -1,1488 +1,1522 @@
 [[white]]
 name = "Aerial Assault"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """The biggest drawback to Aerial Assault is that you often got hit by whatever creature you killed with this, making it a painful piece of removal. The kicker on this mitigates that and adds up if you reliably have a couple fliers in play. I normally only want one of these types of cards in my deck, but Aerial Assault in a fliers deck is something I’m open to play multiple copies of."""
 
 [[white]]
 name = "Ajani, Strength of the Pride"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """Ajani goes off quickly if your opponent can’t attack him, as the play pattern of -2, -2, +1 leaves you with a bunch of very angry kitties. Even if your opponent does have a way to pressure Ajani, you can just +1 him and gain a bunch of life while upping his loyalty. That makes Ajani good when ahead, good in a race, and only bad when every far behind, but even then you get a creature that costs 2 and a couple life points. Ajani may not be the most flashy planeswalker, but is definitely a strong one."""
 
 [[white]]
 name = "Ancestral Blade"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I love these designs, as they play quite nicely. Ancestral Blade starts as a 2/2 for 2, which is a fine deal, and it leaves behind a Leonin Scimitar when it dies. That’s a lot of value for just two mana, as a +1/+1 equipment with equip 1 is more relevant than you might think and having that be a kicker on a bear is just good value."""
 
 [[white]]
 name = "Angel of Vitality"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Fliers are even better than normal in this set, as there are multiple rewards for having them. That makes a 2W 2/2 flier a card you’ll basically always play, and the lifegain incentives are a nice bonus on top of that. I wouldn’t go hard on lifegain because of Angel of Vitality, but if things line up then this could give you a few extra life and maybe even become a 4/4."""
 
 [[white]]
 name = "Angelic Gift"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """The way cards like this usually work is that they seem good, but you rarely actually have room for them. This replaces itself right away, and even gives a small bonus, but once you add up all your creatures and removal, you often are out of slots."""
 
 [[white]]
 name = "Apostle of Purifying Light"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I’m wary of how protection will play in Limited, as I’ve had plenty of bad experiences in the past, though that’s more of a play pattern concern than a lack of power. In fact, I would always maindeck Apostle, as a 2/1 for 2 is passable against non-black decks, and when you do run into a black deck, this can just dominate the game. They can’t kill it with black removal, this can block ground creatures with impunity, and it gets in for free damage if they only have black blockers. The graveyard hate part isn’t particularly relevant, but it’s free, so might as well."""
 
 [[white]]
 name = "Battalion Foot Soldier"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """The sweet spot for Battalion Foot Soldier is three, though I’d play up to four without issue. White has good rewards for going wide in almost every color pair, and a flood of 2/2’s is generally going to be effective in Core Set drafts regardless. I don’t mind speculating on the first one of these early, though if you notice copies aren’t wheeling, it may be time to get out of the foot soldier game."""
 
 [[white]]
 name = "Bishop of Wings"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
 description = """It’s not often that you have a ton of Angels in your deck, and if you do, your deck is probably busted. Bishop of Wings is big enough that it’s worth playing with as few as three Angels, though I’d want four or five to be happy. Also, this card sounds like the guy distributing Red Bull at their upcoming tournaments, which I view as upside."""
 
 [[white]]
 name = "Brought Back"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """It’s going to be rare to get an actual two-for-one with Brought Back, though a big combat step could do it. I’d view this more to bring back one creature when it dies, which at WW doesn’t quite do it for me."""
 
 [[white]]
 name = "Cavalier of Dawn"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """Cavalier of Dawn is a wild combination of abilities, as Beast Within + Argivian Find isn’t the most intuitive, but it’s still a giant monster with multiple good triggers attached. A 4/6 Vigilance is worth five mana (though triple white is a little rough), and killing their best permanent plus getting back a stray Pacifism or the like makes this good value both coming and going."""
 
 [[white]]
 name = "Dawning Angel"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I have this on my list as one of the toughest cards to beat out of the Fliers deck, as multiple Dawning Angels make it really hard to race. The main flaw with 3/2 fliers is that they aren’t great defensively, and the four life really mitigates that. I’m high on Dawning Angel and will be happy to snap up as many as I can get."""
 
 [[white]]
 name = "Daybreak Chaplain"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Daybreak Chaplain loses a little luster in a set without a lifegain theme (or with an extremely minor one), though it does fill out your curve if you need 2-drops. It gets a little better with pump spells too, even if aggressive decks aren’t really into 1/3’s."""
 
 [[white]]
 name = "Devout Decree"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Unlike Apostle of Purifying Light, I wouldn’t maindeck Devout Decree. It’s just too bad when the opponent doesn’t have targets, as it’s a stone-blank, so keep this in the board. It is an effective sideboard card, so I don’t mind taking it early, as having cards that are this efficient is valuable, even if you only get to board them in some of the time."""
 
 [[white]]
 name = "Disenchant"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Disenchant is a strictly sideboard card, and a classic one at that."""
 
 [[white]]
 name = "Eternal Isolation"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """I’m fine maindecking Eternal Isolation as most opponents will have a couple targets, though be aware that you should side it out if they don’t present any in game one. I like how efficient this is, as you are almost always trading up on mana significantly."""
 
 [[white]]
 name = "Fencing Ace"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Fencing Ace is just a glorified 2/1 until you pump it up, at which point it becomes a real beast. It’s a replacement-level 2-drop in decks without pump spells, and a great card if you have a few ways to buff its power."""
 
 [[white]]
 name = "Gauntlets of Light"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """I’m not sure what this is trying to do, but I’m not buying it. Giving a creature +2/+2 (or so) and an expensive untap ability is not worth three mana and a card, though I’m sure I’ll lose to this on some ridiculous 1/5 or something."""
 
 [[white]]
 name = "Glaring Aegis"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Glaring Aegis is acceptable in super-aggressive decks, as it removes a blocker and makes your creature a lot harder to kill. It has the same glaring weakness as every aura, which is that removal and bounce owns it, so you may want to side this out if the opponent is flush with removal."""
 
 [[white]]
 name = "Gods Willing"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Gods Willing is so cheap that you always end up ahead on mana and up a scry, which makes it a fantastic inclusion. As long as you don’t do something silly like run this in a deck with 10 creatures then you’ll be happy with it, and it really gains value if you are aggressive and have a lot of pump spells. It’s also worth noting that this can knock off auras like Pacifism, even when you draw it well after the fact."""
 
 [[white]]
 name = "Griffin Protector"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """It’s ironic that Griffin Protector is better on offense than defense, but I’ll overlook the blatant flavor fail. You don’t want too many of these, as they are a little clunky, but they will kill the opponent quickly in a creature-heavy deck."""
 
 [[white]]
 name = "Griffin Sentinel"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """I’m a little higher on this than normal, as the heavy flying theme gives it some extra value. It’s a fine defender for three mana and pecks in for a damage reliably, which is well worth three mana."""
 
 [[white]]
 name = "Hanged Executioner"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I like Hanged Executioner quite a bit. Getting two 1/1 fliers for three mana is good to begin with, and this can hang out until it’s time to sacrifice it and take out something big."""
 
 [[white]]
 name = "Herald of the Sun"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Herald of the Sun isn’t cheap, but it does give you a 4/4 flier and a legitimate activated ability in the lategame. If you ever run out of things to do, pop some +1+1 counters on your other fliers and enjoy the fact that you have a 4/4 beater while doing so."""
 
 [[white]]
 name = "Inspiring Charge"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """The go-wide theme in this set is well-supported, so you will want Inspired Charge more often than you’d think. If you reliably will be attacking with 3+ creatures, this is worth it."""
 
 [[white]]
 name = "Inspiring Captain"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Inspiring Captain is a less all-in version of Inspiring Charge. It’s not as good as Charge when you are really going off but is much better when you have a worse draw. At worst, it’s still a 3/3 for four, which is definitely passable."""
 
 [[white]]
 name = "Leyline of Sanctity"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """Save this one for Modern."""
 
 [[white]]
 name = "Loxodon Lifechanter"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I really like Loxodon Lifechanter. When you have any sort of built-up board, it gains you some life and threatens to attack as a 15/17 (or often more). The main issue with this is that when you’re far behind it’s just a dork, but there are plenty of situations where it does a ton for you."""
 
 [[white]]
 name = "Loyal Pegasus"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """How loyal can this possibly be if it refuses to attack or block without backup? I like this in aggressive decks, though it’s largely unplayable outside of them. You really need a ton of 2-drops to make this work, so don’t skimp on the bears."""
 
 [[white]]
 name = "Master Splicer"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I’m never turning down 5/5 worth of stats for four mana, and this even pairs nicely with Raise Dead effects and bounce spells. There are even a couple random Golems in the set, though you don’t need anything else to make this great."""
 
 [[white]]
 name = "Moment of Heroism"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Moment of Heroism has always been a fine combat trick, and most aggressive decks will be happy playing one. It’s not great in control or midrange, though I do like siding it in against aggressive decks if you have a bunch of big creatures."""
 
 [[white]]
 name = "Moorland Inquisitor"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """This is basically the baseline 2/2 for 2, as it has a minor ability that doesn’t come up much, but it sure does fill out your curve. If you need to get on board then this does that, though it doesn’t do a whole lot more."""
 
 [[white]]
 name = "Pacifism"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Pacifism is quality removal, even if Gods Willing and bounce spells can make it a bit of a liability. Two mana is just so efficient, and I’d play as many of these as I could get."""
 
 [[white]]
 name = "Planar Cleansing"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """At six mana, it’s hard to set up a good Planar Cleansing, which is why I’m not super high on it. I love 4-mana wraths, but six mana is just so much because you can’t just do nothing for six turns without dying. At best, you stall the board with a couple good defensive creatures and wait for them to overextend, but that usually only works once in a match."""
 
 [[white]]
 name = "Raise the Alarm"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Raise the Alarm is better than usual because of all the token support, and I think multiple decks at the table will be interested in picking these up. It seems like there are more token payoffs than enablers, which makes this all the more valuable. It’s also fine without help, as 2/2 worth of stats at instant speed spread across two creatures is a solid deal."""
 
 [[white]]
 name = "Rule of Law"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """Once again, save the narrow anti-combo hate cards for Modern."""
 
 [[white]]
 name = "Sephara, Sky’s Blade"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I suspect the alternate cost on Sephara is better than it looks. There are a ton of fliers in this set, and all the flier payoffs make 1/1 fliers much more playable than normal. Plus, paying seven mana for this is worth it, as it’s a huge lifelinker that protects your other fliers. I like this as a control finisher or a part of an aggro flier strategy and wouldn’t mind taking it early."""
 
 [[white]]
 name = "Soulmender"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """There isn’t enough of a lifegain theme to make this a card you should play often, though every now and then I could see it making the cut. To be clear, it’s not good enough on its own merits, as a 1/1 that gains 1 a turn is too low-impact to be worth a card."""
 
 [[white]]
 name = "Squad Captain"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """Squad goals for this are to make it a 5/5, and ideally even bigger. If it’s not reliably hitting those marks, leave it on the sidelines, as paying five mana for a 4/4 or 3/3 just doesn’t cut it. Vigilance is especially good on a huge monster, and this is a real payoff for going wide."""
 
 [[white]]
 name = "Starfield Mystic"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Starfield Mystic is mostly just a 2/2 for 2, as the enchantment theme isn’t strongly represented at lower rarities in this set. Let’s just say that at the mystic family reunion, this guy probably gets sick about hearing about his more successful cousin, Stoneforge."""
 
 [[white]]
 name = "Steadfast Sentry"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """I’m not normally a huge fan of 3/2’s for 3, but Steadfast Sentry has two additional upsides that make it a solid playable. Vigilance means it can play both sides of the court and giving away a +1/+1 counter means that you don’t feel as bad when you trade it for a 2-drop."""
 
 [[white]]
 name = "Yoked Ox"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Damn, that ox is YOKED. Despite an obviously successful workout routine, I’d leave the Ox in the sideboard, and only bring it in against a deck full of small ground dorks."""
 
 [[blue]]
 name = "Aether Gust"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """I recommend against maindecking the color-hosing spells, as they are just dead draws if the opponent isn’t either of the colors they target. That said, they are all very good sideboard cards, and I’d happily side in Aether Gust against anyone that is red or green. Note that the owner of the card (aka, the opponent) gets to choose where the card goes."""
 
 [[blue]]
 name = "Agent of Treachery"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
 description = """Agent of Treachery may be a 7-drop, but it’s a permanent steal effect (it doesn’t end when/if this dies) and gets really busted with Raise Dead and bounce effects. I am a little disappointed this doesn’t untap lands like a real Agent of Treachery, though I know how absurd that would be."""
 
 [[blue]]
 name = "Air Elemental"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Air Elemental has carried its weight since Alpha and continues to be a premium uncommmon in every set where it appears. The stats and price are just right, and this is a great early pick and will be one of the better cards in your deck."""
 
 [[blue]]
 name = "Anticipate"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Anticipate is filler, and as such will only sometimes make the cut. It just doesn’t do anything, and even though it gives you decent card selection, it’s often hard to make room for a card that isn’t a creature or removal spell. I do like this more in decks lacking in 2-drops, as it fits better."""
 
 [[blue]]
 name = "Atemsis, All-Seeing"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """Even though Atemsis has a somewhat awkward mana cost, it’s still a 4/5 flier with a powerful activated ability, and that rates highly in my book (a book that Atemsis has surely read)."""
 
 [[blue]]
 name = "Befuddle"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Like Anticipate, Befuddle is rarely bad but also easy to cut. It’s nice that this does provide the opportunity for a 2-for-1, even if it’s not super efficient."""
 
 [[blue]]
 name = "Bone to Ash"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Bone to Ash has a couple points in its favor in this set. It’s a great combo with cards that have flash like Brineborn Cutthroat, or activated abilities like Spectral Sailor. It’s also not bad with Unsummon, as you end up even on cards. Not every blue deck wants this, but if you have other ways to spend your mana at instant speed, it works out pretty nicely."""
 
 [[blue]]
 name = "Boreal Elemental"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Being an Elemental is definitely worth something in this format, and a hard-to-kill 3/4 flier is not a bad deal for five mana. When you find a boreal one like this, you should hold on to it."""
 
 [[blue]]
 name = "Brineborn Cutthroat"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """You only need to get one counter onto Brineborn Cutthroat before it’s above the curve, and a 2/1 flash can give you plenty of options as-is. Unless your deck has literally no instants, this is a card that should always make the cut."""
 
 [[blue]]
 name = "Captivating Gyre"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """I’m not super high on this mega bounce spell, as you need to be ahead on board for it to really be effective. I’m not a huge fan of cards that only work when ahead, and this fits right into that category. If you spend six mana and a card and don’t capitalize on it, your opponent is just going to replay two of the creatures you bounced, and all of a sudden you’re back to square one. As a curve-topper in an aggressive deck, Captivating Gyre is good, but in a random midrange or control deck I’ll pass."""
 
 [[blue]]
 name = "Cavalier of Gales"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
 description = """Brainstorm in Limited most often reads “draw a card,” but that’s still a great ability when stapled a five-mana 5/5 flier. Cavalier of Gales is absurd, and even gives you a scry 2 and a shot at a redraw when it dies. That doesn’t put it too far from God-Eternal status, which is a good place to be."""
 
 [[blue]]
 name = "Cerulean Drake"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I’m really into Cerulean Drake, and I would always begin by maindecking it (the exception being a deck that has no interest in a 1/1 flier, like a very controlling build). If you play against a red deck this vastly overperforms, and the sacrifice ability works against any spell that targets you, not just red ones. I would side the Drake out against non-red decks, but the upside is worth starting it."""
 
 [[blue]]
 name = "Cloudkin Seer"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Cloudkin Seer is the real deal. An aggressive flier for just three mana that also draws a card is fantastic in any deck, and it being an Elemental is the cherry on top of an already delicious treat."""
 
 [[blue]]
 name = "Convolute"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Three-mana counterspells are on the weaker side because you have to leave three mana up and there’s no guarantee your opponent will play anything relevant. Add to that the downside of this going dead in the lategame and you have a card I’m unhappy to have in my deck."""
 
 [[blue]]
 name = "Drawn from Dreams"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I dream of spending four mana to dig through my deck, even if it must be at sorcery speed. This combines nicely with cheap removal and defensive creatures, though any deck will be happy to have this."""
 
 [[blue]]
 name = "Dungeon Geists"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
 description = """Dungeon Geists gets such a high grade based on efficiency and power. At only four mana, this can come out early and cheaply, and it always has a large effect on the game. The downside is that a removal spell does trade for it without lasting damage, but whenever this isn’t immediately killed, the swing is enormous."""
 
 [[blue]]
 name = "Faerie Miscreant"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
 description = """Unless you’re playing Pauper or manage to collect 5+ Faerie Miscreants, I’d avoid this trap. The first one not drawing a card is rough, and if you don’t get three in the same game you’re still not in fantastic shape."""
 
 [[blue]]
 name = "Flood of Tears"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Everything I said about Captivating Gyre applies here, though it’s even worse if you don’t get to play a free permanent. That’s not a card I’m thrilled to play, and it’s especially bad when you’re flooded."""
 
 [[blue]]
 name = "Fortress Crab"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Defenders gonna defend. Sometimes you just need a giant blocker, and Fortress Crab delivers."""
 
 [[blue]]
 name = "Frilled Sea Serpent"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Honestly, if you’re high and dry when it comes to finishers, you can play a Serpent and it’ll do its job, but I’d really hope to do better. This is just so slow and the ability is even slower, making it a card I only play reluctantly."""
 
 [[blue]]
 name = "Frost Lynx"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Frostie was good in every previous format, and even got a minor upgrade this time around because Elementals is a supported type. Paying three mana for a significant tempo gain is worth it, and this does a lot of work when ahead or behind (though isn’t great when at parity)."""
 
 [[blue]]
 name = "Hard Cover"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Hard cover, soft target. I’m not interested in spending a card for these minor upgrades, and the exposure to removal is a real downside."""
 
 [[blue]]
 name = "Leyline of Anticipation"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """I don’t anticipate ever playing with or against this card. Even if it was always free, it’s not worth a card in Limited, and most of the time you’re going to be stuck paying full retail. Is there a bigger delta in the set for Constructed vs. Limited than the Leylines?"""
 
 [[blue]]
 name = "Masterful Replication"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Six mana for two 3/3’s is a mediocre deal, and you will never have enough artifacts for the second clause to do anything. I’m struggling to find anything masterful about this."""
 
 [[blue]]
 name = "Metropolis Sprite"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Metropolis Sprite gets a decent amount of damage in and can play nicely with any effects that pump its toughness. I’d mainly be looking to play this in a deck with 2-3 flier payoffs, or if I was drastically short on 2-drops."""
 
 [[blue]]
 name = "Moat Piranhas"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """In a deck that cares about attacking, this is basically a blank. In a dedicated control deck, Moat Piranhas lives up to its name (their name?) and stops non-flying creatures for long enough for you to get your control game in place. Not many decks will end up wanting this, but I look forward to playing the ones that do."""
 
 [[blue]]
 name = "Mu Yanling, Sky Dancer"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """Mu Yanling will quickly fly away with any game where you can protect her, and with her +2 ability she even helps in that. Playing her, hitting +2, then -3, is a really tough line to beat and a very easy one to accomplish. Three mana is an aggressive cost, and I’m a big fan of Mu Yanling as a result."""
 
 [[blue]]
 name = "Negate"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """As always, Negate is a card I basically never maindeck (Sealed aside) and am happy to side in."""
 
 [[blue]]
 name = "Octoprophet"
-color = "gold"
+color = "rare"
 ratings = "3.0"
-description = """Flavor: 8.0"""
+description = """Flavor: 8.0
+
+Octoprophet tickles my fancy and is a reasonable card to boot. It gives you some decent stats and a nice ETB ability, making it a fine play at any point in the game."""
 
 [[blue]]
 name = "Portal of Sanctuary"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Sadly, the designers stopped us from doing anything cool (and extremely annoying) by making this your turn only. That’s likely for the best, but it does leave Portal of Sanctuary in the “hypothetical but not actually good” build-around pile. If you have tons of ETB abilities, this may sometimes be worth trying, but I’m not holding my breath."""
 
 [[blue]]
 name = "Renowned Weaponsmith"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """This rating is contingent on having 1-2 copies of the named cards, though Vial of Dragonfire is much better in general. Even if you do get all the pieces, the end result is far from busted, making this a fairly weak card overall."""
 
 [[blue]]
 name = "Sage’s Row Denizen"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Sage’s Row Denizen provides a mediocre body and a mediocre win condition, which with their powers combined…makes a mediocre card."""
 
 [[blue]]
 name = "Scholar of the Ages"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Scholar of the Ages is a very powerful finisher. Playing this and picking up two removal spells is quite strong, and not that hard to pull off. Where it gets really spicy is when you bring back cards like Unsummon or Soul Salvage and start recycling the Scholar. Getting multiple triggers off this is disgusting and will lead to a (slow and grinding) victory."""
 
 [[blue]]
 name = "Sleep Paralysis"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """Sleep Paralysis is a fine removal spell, and you will rarely cut it. It’s never exciting, but it sure gets the job done. Of note, I’m a little lower on Auras thanks to Gods Willing and Unsummon being in the set, though it’s still not a huge swing."""
 
 [[blue]]
 name = "Spectral Sailor"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """As much as I rail against 1/1’s for 1, this letting you draw extra cards goes a long way in my book. Spectral Sailor is a real threat if the game ever slows down, and a 1/1 flier does have some effect on the board (even if it’s not much)."""
 
 [[blue]]
 name = "Tale’s End"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """This is a tale best told to a Constructed audience, though if the opponent has multiple legendary cards I don’t hate the idea of boarding this in. You will sometimes find other uses for the card, and it does answer some problematic threats."""
 
 [[blue]]
 name = "Unsummon"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """The first Unsummon is worth a lot more than subsequent ones, as trading a card for temporary board advantage is not a deal you can make multiple times in most games. It does work out against auras, pump spells and can even save your own creatures from removal, so I do like having one in most blue decks."""
 
 [[blue]]
 name = "Warden of Evos Isle"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Ideally you have at least a couple other fliers to go with this, and if you’re lucky, they are on the more expensive side. The floor is pretty high here, as a 3-mana 2/2 flier is solid, and if you ever curve this into a 5-drop you will be very happy with the results."""
 
 [[blue]]
 name = "Winged Words"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Divination is already a fine playable in most core sets, so getting that effect at 2 mana is something I’m thrilled to play. Even if this costs 3, you aren’t falling behind, so Winged Words ends up being pure upside."""
 
 [[blue]]
 name = "Yarok’s Wavecrasher"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """How good the Wavecrasher is does depend on your deck, as its ability can range from drawback to upside. If you’ve got a lot of cheap creatures and creatures with ETB effects, the Wavecrasher is great. If your deck is slow and has no good combos with this, it’s barely playable. Note that if it’s the only creature you have, the ability doesn’t do anything, and you can play this as a 4-mana 4/4."""
 
 [[blue]]
 name = "Zephyr Charge"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Zephyr Charge looks powerful but is too slow to really have a good effect. Your best bet is to side this in when it’s UG vs UG, though I’d usually err on just not playing it."""
 
 [[black]]
 name = "Agonizing Syphon"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """We may be a little spoiled by getting to play with Smiting Helix from Modern Horizons, but Agonizing Syphon is a solid piece of removal. Gaining three makes up for it being a little slow, and it will kill most things you care about killing."""
 
 [[black]]
 name = "Audacious Thief"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I really like Audacious Thief. This card is going to steal games all over the place, because if it hits turn three and the opponent can’t stop it, the game ends very quickly. The most common way to enable this will be removal, though bounce works nicely too. The reason this is more highly rated than similar cards is that it triggers on attack, which means it 2-for-1’s the opponent when they block with a 2/2 and at worst you can throw it away to draw a card. That’s a lot of power, and Audacious Thief is one of the best commons as a result."""
 
 [[black]]
 name = "Barony Vampire"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """This is a pretty big letdown coming on the heels of Audacious Thief, and I’d only recommend playing it if you are short creatures or have Sorin (which is a mythic)."""
 
 [[black]]
 name = "Bladebrand"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Despite being a good combat trick in Ravnica Allegiance, Bladebrand loses a lot of luster without Footlight Fiend to accompany it. Those sorts of synergies matter, and Bladebrand is not a card I expect to play all the time. If you have extra space in your deck and a bunch of small creatures, it’s fine, but by no means is it a premium card."""
 
 [[black]]
 name = "Blightbeetle"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """I don’t like Blightbeetle as much as some of the other protection creatures, because a 1/1 ground creature is quite a bit worse than a 1/1 flier or 2/1. That said, it’s not the worst maindeck inclusion, because protection from green is really effective at stopping big ground attackers, and you can side it out if your opponent isn’t playing green. This gets better if you have sacrifice cards, as at least you get to make the 1/1 into a relevant game piece."""
 
 [[black]]
 name = "Blood Burglar"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """The trend of creatures having keywords only on your turn is a cool one, and it plays out pretty well. Blood Burglar is only the second-best thief in the set, but it’s still a fine 2-drop and you’ll end up playing it most of the time."""
 
 [[black]]
 name = "Blood for Bones"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """You need quality creatures to make Blood for Bones good, and if you meet that bar it will deliver. It’s especially good when you’re sacrificing fodder, and ideally getting back creatures with good ETB effects. I really like the loop with Scholar of the Ages, but this is still great if you’re sacrificing a 2/2 to get back two larger things. Cards like this also make me think that Gorging Vulture will be a staple."""
 
 [[black]]
 name = "Bloodsoaked Altar"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """The cost here is high enough that you can’t play Bloodsoaked Altar without doing some work. A six-mana 5/5 flier is great, but once you add in 2 life, a card, and a creature, the deal starts looking a lot less good. Some ways to get around that are Act of Treason, turning the sacrifice into upside, tokens, and fodder like Sanitarium Skeleton. Once you’ve mitigated the sacrifice part, the Altar begins to deliver, and this can be a powerful finisher in a sacrifice deck."""
 
 [[black]]
 name = "Bloodthirsty Aerialist"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Bloodthirsty Aerialist isn’t so much a build-around as a decently-sized flier that sometimes really goes off. I’d play this without lifegain, and with 2-3 ways to trigger it, the Aerialist becomes quite the force to be reckoned with."""
 
 [[black]]
 name = "Bone Splinters"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Unlike Spark Harvest, Bone Splinters doesn’t come with the option to pay the gold price. Iron it is, and you are always getting 2-for-1’ed unless you find a way to generate some sacrifice fodder. Luckily that’s not too difficult, and this will often find its way into your deck, though it doesn’t become great until you’re pairing it with Act of Treason."""
 
 [[black]]
 name = "Boneclad Necromancer"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """5/5 worth of stats for 5 mana is good, and by the time you cast this you likely will have something to devour. This helps token decks amass some forces and works well if you have ways to bounce it or bring it back."""
 
 [[black]]
 name = "Cavalier of Night"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
 description = """Cavalier enters with Bone Splinters and leaves with Unearth, both of which are solid spells. Add that to a 4/5 lifelinking body and you have a certified bomb on your hands."""
 
 [[black]]
 name = "Disfigure"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Disfigure is incredibly efficient, and unlike Shock, can team up to take down bigger creatures without the loss of a card. Your 3/3 beats their 4/4 in a fight, and you only spent one mana in the whole exchange. Efficiency plus power is something I always look for, and this is one of the premium removal spells in the set (though note that it’s an uncommon now)."""
 
 [[black]]
 name = "Dread Presence"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
 description = """Dread Presence may not be the largest creature around, but it acts like a planeswalker if you’ve got enough Swamps. Pinging any target for 2 is huge, and when you’ve gained enough life and killed all their stuff, this starts drawing you cards as well. It’s got a heavy black commitment, but that doesn’t stop it from being one of the best cards in the set. I’d usually err on the side of playing this turn five so you can drop a Swamp and get at least one trigger guaranteed."""
 
 [[black]]
 name = "Duress"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Duress is almost never maindeckable and is only sometimes a good sideboard option. Unlike Negate, this runs a good chance of whiffing and is a horrendous card to topdeck in the lategame. I’d only side this in if my opponent had a ton of spells, and in particular some expensive/powerful ones."""
 
 [[black]]
 name = "Embodiment of Agonies"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Even though you probably can’t play Embodiment on turn three, it likely will be a 3/3 or larger in most games. That’s a fine deal for three mana, and deathtouch means that this still is relevant as a 1/1 or 2/2."""
 
 [[black]]
 name = "Epicure of Blood"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """The effect here is minor enough that I mostly see this a 4/4 body, which you can play if your deck needs it. With a couple recurring ways to gain life, the damage adds up, but it’s not a big enough payoff to make this a true build-around."""
 
 [[black]]
 name = "Fathom Fleet Cutthroat"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """The more aggressive your deck is, the better Fathom Fleet Cutthroat gets. It’s especially good in B/W tokens, as you will often be jamming a bunch of crappy small creatures into bigger ones, which sets up the Cutthroat perfectly. Be wary if your opponent ever swings a 1/1 into your 4/4, and try to avoid blocking if possible."""
 
 [[black]]
 name = "Feral Abomination"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """There’s no shame in running the Abomination, as it is a large threat, though there are enough dorky ways to end the game that it’s never going to be a high pick."""
 
 [[black]]
 name = "Gorging Vulture"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Black has a bunch of cards which care about what’s in your graveyard, which make me think that the bird’s the word. Gorging Vulture is an efficient flier already, and milling yourself for four is definitely upside in this set."""
 
 [[black]]
 name = "Gravedigger"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """It’s hard to beat Gravedigger when it comes to value. This is a clean 2-for-1 and works very well if you have ways to bring the Gravedigger back after it dies. I’m always happy running this, and don’t mind taking it early."""
 
 [[black]]
 name = "Gruesome Scourge"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Unless your deck is remarkably creature-light, Gruesome Scourge is a punishing threat and can easily end games. It’s capable of dealing a ton of direct damage and gets really sick if you have ways to recur it."""
 
 [[black]]
 name = "Knight of the Ebon Legion"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """I gotta hand it to Knight of the Ebon Legion. If you have three mana up, it’s a huge threat, and it even grows if it gets to whack the opponent. It doesn’t even stop you from pumping multiple times, so in the lategame this becomes even more of a monster."""
 
 [[black]]
 name = "Legion’s End"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Killing 2-drops isn’t always something you need to do, and I’m scared this will be a dead card in the mid to lategame. It’s fine to maindeck it as most decks will have 3-5 targets, but if they aren’t aggressive then I’m more than happy siding it out."""
 
 [[black]]
 name = "Leyline of the Void"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """Like most Leylines, this is great for Constructed and unplayable in Limited. The graveyard just isn’t worth spending a card on, even if they have multiple Raise Dead effects."""
 
 [[black]]
 name = "Mind Rot"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """It’s never a disaster if you end up maindecking Mind Rot, but it’s rarely all that exciting. I like it more in Sealed and prefer to sideboard this in against slow decks, as spending three mana to not affect the board can be a bad move."""
 
 [[black]]
 name = "Murder"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """Murder at common is shocking, but I’ll take it (especially if I see it in a pack). This kills anything, no questions asked, and does so for a very reasonable amount of mana."""
 
 [[black]]
 name = "Noxious Grasp"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """Noxious Grasp is another great sideboard card that I’d recommend against maindecking."""
 
 [[black]]
 name = "Rotting Regisaur"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I’m all for Reggie here, as this ends the game so quickly that discarding a couple cards doesn’t matter. Note that if you have no cards in hand this doesn’t have a drawback, and that 7/6 is very big. It does hurt if this gets hit by Pacifism, and watch out for Unsummons in response to the trigger if you are empty-handed. I’d look to draft an aggressive deck to complement this, though it’s a good card in just about every archetype."""
 
 [[black]]
 name = "Sanitarium Skeleton"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
 description = """I don’t like playing the Skeleton without combos, and even in a sacrifice/graveyard deck it’s slow and unexciting. It is cool that you can mill it with Gorging Vulture, but that’s not enough to make me crazy about playing it."""
 
 [[black]]
 name = "Scheming Symmetry"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """I’d be suspicious of Imperial Seal in Core Set draft, as skipping a draw step to find a card is often not going to be worth it (your best cards aren’t usually that much better than the rest). Once you make it so your opponent gets to do this for free and draws their card first, I’m completely off it."""
 
 [[black]]
 name = "Sorcerer of the Fang"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """A cheap early play that has lategame relevance is often a recipe for success, but this is anemic enough at both ends that I’m never going to be excited about it. It’s fine if you need filler, and not much better than that."""
 
 [[black]]
 name = "Sorin, Imperious Bloodlord"
-color = "black"
+color = "common"
 ratings = "1.5 // 2.5"
 description = """If you rack up a couple Vampires, Sorin gets a lot more attractive. On his own, he’s too vulnerable and provides no lasting effects, which isn’t a planeswalker I want to sink my teeth into. I’d like to have 2-3 Vampires alongside Sorin, and less than that dramatically reduces my interest in him."""
 
 [[black]]
 name = "Soul Salvage"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Soul Salvage occupies a funny space. The first one is often great and can even be critical if you’re trying to play a grindy game, but the second one is way worse, and in neither case do you want to pick this super early. I’d err on the side of picking up one, and in decks with multiple Gorging Vultures, would gladly play more."""
 
 [[black]]
 name = "Thought Distortion"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """Not only does this cost a million mana, it even misses on the most common card type in Limited. Hard pass."""
 
 [[black]]
 name = "Undead Servant"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.5"
 description = """You need three or more of these before I start getting interested, and even then I’m not that thrilled until you hit the 4-5 range. That won’t happen all that often, so only speculate on these if the packs have nothing else for you."""
 
 [[black]]
 name = "Unholy Indenture"
-color = "black"
+color = "common"
 ratings = "0.5"
 description = """The delayed gratification on this is too much of a cost, as there are plenty of ways for this to go wrong. You can put this on opposing creatures, but either way I’d recommend against playing it."""
 
 [[black]]
 name = "Vampire of the Dire Moon"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """This rating may seem high, but with three good ways to bring back dead creatures, a 1/1 deathtouch is at a premium in this set. Plus, adding lifelink is a real advantage, as it means that pecking away with your 1/1 actually gets you something now."""
 
 [[black]]
 name = "Vengeful Warchief"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """The Warchief isn’t exciting, but it can often grow to be a 5/5 or 6/6 without much difficulty. You can also grow this yourself, as you damaging yourself does indeed trigger it."""
 
 [[black]]
 name = "Vilis, Broker of Blood"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
 description = """In a normal deck, eight mana is too much to realistically get to. It’s just too expensive, and Vilis is unplayable as a result. In a ramp-specific deck, things change a little, and this becomes a legit finisher if you have enough ways to control the game and gain resources. I will have fun trying to make this work and think it’s powerful enough to be worth doing so. If Vilis hits the board and you have a decent amount of life left, it will dominate with ease."""
 
 [[black]]
 name = "Yarok’s Fenlurker"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Ravenous Rats gets a serious upgrade, and the Rats were good enough to begin with. This takes a card immediately and lurks around until you have enough mana, at which point it becomes an actual threat. That’s a great deal for two mana, and I’d always be happy running this."""
 
 [[red]]
 name = "Act of Treason"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """Act of Treason and other Threaten effects tend not to be good enough if you’re using them for purely aggressive purposes. Where they get interesting is in a R/B sacrifice deck, and there are some seeds for that here. Bloodsoaked Altar and Bone Splinters are the main outlets, and if I had two good ways to sacrifice, I’d be happy to play an Act of Treason."""
 
 [[red]]
 name = "Cavalier of Flame"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """Cavalier of Flame may be slightly behind the rest of the cycle, but it’s still a hugely impactful card. It lets you cycle any cards you don’t want, can pump your whole team (and sometimes even give itself haste), and occasionally will do a couple damage when it does. That’s more than enough to be a solid early pick, even if it’s not quite as hot as some of the others."""
 
 [[red]]
 name = "Chandra, Acolyte of Flame"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """How good Chandra is hinges completely on how many spells you have to cast with her -2 ability. If you have 4+, Chandra will be good (though note that you do have to pay their costs still). If you have only a couple spells, she’s largely mediocre, as her other abilities don’t do a ton."""
 
 [[red]]
 name = "Chandra, Awakened Inferno"
-color = "gold"
+color = "rare"
 ratings = "5.0"
 description = """Big Chandra does just about everything you could ask for. She wipes the board of small-to-medium creatures, can pick off big ones in a more targeted fashion, and can use her +2 ability to put the opponent on a fast and inexorable clock. To top things off, she isn’t even counterable, making sideboard cards like Negate a joke. It’s hard to imagine the situation where Chandra isn’t awesome, and I’m happy giving her the highest possible grade."""
 
 [[red]]
 name = "Chandra, Novice Pyromancer"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Novice she may be, but Chandra gets the job done. Even as just a double ping, she would be fantastic, and she has multiple other useful modes too. Her mana ability gives you a way to play something huge or two spells in the same turn, and if you have an Elemental army she is happy to lead it. That’s a lot for four mana, and I’d be very happy to pick Chandra early."""
 
 [[red]]
 name = "Chandra’s Embercat"
-color = "black"
+color = "common"
 ratings = "1.5 // 2.5"
 description = """The Cat ranges from a decent 2-drop to an awesome accelerant, all based on how often you get to tap it for mana. It’s also nice that in decks that care about it being an Elemental, which will have plenty of options to tap for."""
 
 [[red]]
 name = "Chandra’s Outrage"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Chandra’s Outrage is classic good removal. It kills just about anything at instant speed, and even leave the opponent with some scorch marks on the way out."""
 
 [[red]]
 name = "Chandra’s Regulator"
-color = "black"
+color = "common"
 ratings = "0.5"
 description = """Unless you somehow end up with multiple Chandras, I wouldn’t recommend playing this. It only lets you rummage away some specific card types and copying Chandra abilities is super narrow."""
 
 [[red]]
 name = "Chandra’s Spitfire"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """While you do want a couple ways to trigger this, it’s hard to end up with actual zero, and the stats are good enough that I’d always be looking to start it. It’s a cheap flier that can block well, and every now and then you get to let it off the leash and attack for a lot of damage."""
 
 [[red]]
 name = "Daggersail Aeronaut"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """Flying on your turn is a neat way to give red some evasive attackers without messing up the color pie, and I think this is a cool design. It’s also a good aggressive card, and most red decks will be interested in the Aeronaut."""
 
 [[red]]
 name = "Destructive Digger"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Destructive Digger is flexible and can definitely fill a hole in your deck if you need some lategame action. A 3/2 for three impacts the board well enough, and if the game ever stalls out you can start trading lands for cards. I like exactly one of these, and wouldn’t prioritize it too much."""
 
 [[red]]
 name = "Dragon Mage"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Despite this being a huge Dragon, I’m not a big fan. It’s about one mana more than I’m comfortable paying, and having each player draw seven cards is likely a disadvantage if you’re able to hit them with a 5/5 flier. You don’t need that kind of variance when you’re winning, and you don’t need this card."""
 
 [[red]]
 name = "Drakuseth, Maw of Flames"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """At seven mana, you will need to do some work to cast Drakuseth. That means making a deck that can control the game, and ideally has some ramp elements to it. If you can cast and attack with Drakuseth you basically win on the spot, and that’s worth quite a bit to me. Breathing fire on three different targets is huge, and almost impossible to come back from."""
 
 [[red]]
 name = "Ember Hauler"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Ember Hauler does his job and doesn’t complain, and is a fine card in any deck. A 2/2 early and a Shock as needed–it doesn’t get much better than that for two mana."""
 
 [[red]]
 name = "Fire Elemental"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """I’d hope not to play Fire Elemental outside of Elemental-themed decks, but if you do have to, it’s still a decently-sized body."""
 
 [[red]]
 name = "Flame Sweep"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """It takes a little work to make Flame Sweep playable. In some decks, this will kill half your creatures, at which point it’s clearly not worth it. In others, it will devastate your opponent and leave your board untouched, so try and draft enough fliers or 3-toughness creatures so you can make the second scenario happen."""
 
 [[red]]
 name = "Fry"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """Fry is an excellent sideboard card and not something I’d recommend you maindeck."""
 
 [[red]]
 name = "Glint-Horn Buccaneer"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """As weird as this card is, it’s got a lot of stats and a couple neat abilities. I like it for the combination of good brawling ability and card selection, with the ping ability being a bonus more than anything else."""
 
 [[red]]
 name = "Goblin Bird-Grabber"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Flavor: 4.0"""
 
 [[red]]
 name = "Goblin Ringleader"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
 description = """I’m looking for 5+ Goblins before I play this, which makes it a mediocre build-around at best. It’s just a lot of mana for a 2/2, and if you whiff on the ability, it’s a very bad deal."""
 
 [[red]]
 name = "Goblin Smuggler"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Goblin Smuggler is going to end a ton of games. You do want to be on the aggressive side before playing this, but once you are, it delivers. Haste adds a lot here, as it will often mean one less turn for the opponent to find an answer. This shines on stalled boards or as part of a curve, which is something I value in aggressive cards."""
 
 [[red]]
 name = "Infuriate"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """If you need a trick, I wouldn’t be angry about playing this one."""
 
 [[red]]
 name = "Keldon Raider"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """As long as you can swing the RR cost, Keldon Raider is a good addition to your deck. It’s large, it offers card filtering, and it isn’t too expensive."""
 
 [[red]]
 name = "Lavakin Brawler"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I’ve been impressed with the Brawler. By herself, she attacks as a 3/4, and it’s very easy to make her into a 4/4 or 5/4. She also provides a lot of toughness and a good Elemental payoff, as well as being a sweet combo with Goblin Smuggler. You don’t need to do a lot of work to get value from the Brawler, which is my kind of build-around."""
 
 [[red]]
 name = "Leyline of Combustion"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """All the Leylines are just stone unplayable in Limited, though this one at least has vague sideboard possibilities against control decks."""
 
 [[red]]
 name = "Maniacal Rage"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """The removal in this set is not weak, which makes cards like Maniacal Rage way too risky of a gamble. If you really don’t have other options, you can try and cheese them out with this, but I’d recommend against it."""
 
 [[red]]
 name = "Marauding Raptor"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """Marauding Raptor is undeniably powerful but requires some deckbuilding costs. If you have only a couple creatures with 2 toughness, I like it (especially since that implies a lot of big creatures), but you can’t stick this into a random red deck and expect success."""
 
 [[red]]
 name = "Mask of Immolation"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """This coming with a 1/1 makes it a great value card, as it can ping anything and give you an engine for the entire rest of the game. I like this best in token decks, sacrifice decks, or aggressive decks, which is a wide range."""
 
 [[red]]
 name = "Pack Mastiff"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """If the format ends up being extremely fast, this could go up a notch, as it does a good Fathom Fleet Firebrand impression. I don’t care a ton about getting multiples, so you can pretty safely ignore that part."""
 
 [[red]]
 name = "Rapacious Dragon"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I like that the Dragon fixes your colors and helps set up some multi-spell turns, which is a good bonus on a 5-mana 3/3 flier. I can’t imagine not playing this and would take it early unless you’re already set on 5-drops."""
 
 [[red]]
 name = "Reckless Air Strike"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Reckless Air Strike is a clear sideboard card, as trying to snipe artifacts and fliers in the maindeck is unnecessarily reckless."""
 
 [[red]]
 name = "Reduce to Ashes"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """I’d basically always play this and am never thrilled about the prospect, which is a fine place to land. This kills most everything and even exiles it, making it one of red’s better answers to big creatures."""
 
 [[red]]
 name = "Repeated Reverberation"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
 description = """This is a build-around for sure, and not an easy one. I’d want 4+ cheap removal spells in order to try it, and even then it seems a little dicey. It’s a tough ask, needing enough mana to play both cards in the same turn and having 3 targets, so don’t go out of your way to try and play this."""
 
 [[red]]
 name = "Ripscale Predator"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Ripscale Predator is hard to block and has a lot of stats, though at six mana you really don’t need to prioritize it. Aggressive red decks often don’t want any six-drops, and controlling decks would rather have better defensive cards, so this mostly wants to live in ramp decks or midrange decks that skew aggressive."""
 
 [[red]]
 name = "Scampering Scorcher"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """The combo with Risen Reef is awesome, and even past that, I’m a fan of the Scorcher. It nicely supports Elemental decks and go-wide decks, and does so at a very reasonable cost. Plus, four mana for 3 1/1’s is just a good deal, so you don’t even need to be doing anything fancy."""
 
 [[red]]
 name = "Scorch Spitter"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """I wouldn’t play such a low-impact card unless you really need Elementals and are very aggressive, so plan on keeping this one on the bench."""
 
 [[red]]
 name = "Shock"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Shock is reliably good, and that doesn’t seem likely to change in this set. It kills plenty of things and does so at the lowest cost you can find."""
 
 [[red]]
 name = "Tectonic Rift"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """It’s almost impossible to care about both abilities in the same game, and given the low power levels, I’ll be happy if I never end up with Tectonic Rift in my deck. I don’t hate it as an answer to Gift of Paradise, and it can be an aggressive finisher, but it’s just not great at anything."""
 
 [[red]]
 name = "Thunderkin Awakener"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """Even as a build-around, I’m not buying this in Limited. It’s too much work to temporarily get an Elemental back, and even with some 1-toughness Elementals you are still asking for too many things to go right at once. This even has to attack, which means it will die in combat almost every time."""
 
 [[red]]
 name = "Uncaged Fury"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """Uncaged Fury is a powerful combat trick, as it does a ton of damage on anything with 4+ power. That makes it worth running even in decks that don’t want tricks, as the damage potential is just so high."""
 
 [[red]]
 name = "Unchained Berserker"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """This attacks as a 3/1, making it playable regardless of what color the opponent is, and sometimes will just dominate against an opponent playing white. That’s a great deal, and one I’m glad to sign up for."""
 
 [[green]]
 name = "Barkhide Troll"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """This has both bark and bite going for it, as it starts as an aggressive 3/3 for two and can shrink itself to dodge removal. That’s a good deal, and the only note is that you ideally want 10 or so Forests in your deck so you can cast this on time."""
 
 [[green]]
 name = "Brightwood Tracker"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """I lean towards playing exactly one Brightwood Tracker, as it really gives you a good plan in the lategame. The 2/4 body helps block, and the activated ability looks at enough cards that you should be in good shape to track down some reinforcements."""
 
 [[green]]
 name = "Cavalier of Thorns"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
 description = """I’m trying to find a way to give all of these super high grades without being too cavalier about it, but really you can just read the card. Cavalier of Thorns is huge, has reach, and both triggers give you an advantage. The first one gets a land, which is solid, but also stocks your graveyard, and means that when this dies you get to put something good on top. That’s a lot of power for five mana, and I hope to open one of these every time I draft."""
 
 [[green]]
 name = "Centaur Courser"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Even though this is just a vanilla creature, the stats to cost ratio is good enough that you aren’t realistically cutting it from any deck but the most focused (whether that be on control or a tribe like Elementals)."""
 
 [[green]]
 name = "Elvish Reclaimer"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I like Elvish Reclaimer. It works nicely with Evolving Wilds and self-mill like Gorging Vulture, and by itself can eventually grow into a solid creature. It also does fix your mana and thin your deck, which is a pretty nice deal for just an initial one-mana investment."""
 
 [[green]]
 name = "Feral Invocation"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """Winning fights with Feral Invocation usually leads to winning games with Feral Invocation, as you not only killed their creature but have a monster left over. This doesn’t fit too well decks with too high a curve or that are short creatures, so avoid it in ramp/control decks."""
 
 [[green]]
 name = "Ferocious Pup"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """There are enough token and sacrifice synergies that I’d expect to play Pup more often than not, but you do need something to make this worth playing. On its own (well, you know what I mean), this is 2/3 worth of stats for three mana, which isn’t quite good enough."""
 
 [[green]]
 name = "Gargos, Vicious Watcher"
-color = "gold"
+color = "rare"
 ratings = "5.0"
-description = """Gargos is a house. Not only is this an enormous vigilance threat, but it only costs six mana, which means it’s eminently castable and will come down early enough to dominate the game. What really puts this over the top is the discount ability, as it’s insane when you get multiple Hydras."""
+description = """Gargos is a house. Not only is this an enormous vigilance threat, but it only costs six mana, which means it’s eminently castable and will come down early enough to dominate the game. What really puts this over the top is the discount ability, as it’s insane when you get multiple Hydras.
+
+Okay, that’s a lie, the part that makes this insane is that it kills something
+if the opponent has a way to deal with Gargos, and Bolas help them if you have
+ways to target your own creatures. The fight part of this card is just obscene,
+and it makes this card one of the tippity-top in the entire set (especially
+when combined with the ridiculous cost and stats)."""
 
 [[green]]
 name = "Gift of Paradise"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """I’m seeing a lot of good reasons to play Gift of Paradise, as it is a ramp spell that also fixes colors and throws in some life for good measure. Not every deck will want this, but if you are more than two colors or have expensive cards, this is quite the gift."""
 
 [[green]]
 name = "Greenwood Sentinel"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """It doesn’t get much dorkier than Greenwood Sentinel, as vigilance doesn’t do much on a 2/2 and green doesn’t seem to be interested in curve-out aggro."""
 
 [[green]]
 name = "Growth Cycle"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Growth Cycle is a serviceable combat trick, though I’m not that excited about trying to draft a ton of these. There’s not a huge difference between +3/+3 and +5/+5 in most combats, so going deep on tricks is just asking to have a bad matchup against removal or aggro."""
 
 [[green]]
 name = "Healer of the Glade"
-color = "black"
+color = "common"
 ratings = "0.5"
 description = """This is nominally a sideboard card against aggro, but it would have to be super low-to-the-ground aggro before I wanted to board this in. It doesn’t actually stop a 2/2 into a 3/3, so don’t treat this as more than it is. I could also see this in a super dedicated Elemental deck, though that’s likely more of a Constructed idea than a Limited one."""
 
 [[green]]
 name = "Howling Giant"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Besides being a great callback to the Black Keys, Howling Giant is exactly what I want to pay seven mana for. This has reach, so it defends against fliers, and makes two Wolves alongside it, so it trades favorably against removal. I’d gladly draft a ramp deck if I started with Howling Giant, and it works especially well if you have some ways to bring it back from the graveyard."""
 
 [[green]]
 name = "Leafkin Druid"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """The 2-drop accelerator is almost always a 3.0, and Leafkin Druid even has two little bonuses. First, it’s an Elemental, so it enables some of your other cards, and second, it can sometimes tap for two mana, which is often relevant even later in the game."""
 
 [[green]]
 name = "Leyline of Abundance"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """Like the other Leylines, this is way too situational to be of use."""
 
 [[green]]
 name = "Loaming Shaman"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Most of the time, the trigger on Loaming Shaman will do nothing. It can marginally disrupt an opposing black deck that is trying to stock its graveyard, and in a long game can prevent you from being decked, but for the most part this is a 3/2 for three, which is playable but not fantastic."""
 
 [[green]]
 name = "Mammoth Spider"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I’m a fan of Mammoth Spider. It shuts down just about every flier you’ll face, and helps the bigger green decks survive into the lategame. It can also rumble just fine if need be, as a 3/5 is substantial. I’m happy playing multiple Mammoth Spiders, and really prioritize the first one."""
 
 [[green]]
 name = "Might of the Masses"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """I don’t know where this scary green token deck is, as Might of the Masses keeps coming back at uncommon. You need a lot of creatures out for this to be great, and for the most part I haven’t seen it be all that."""
 
 [[green]]
 name = "Natural End"
-color = "black"
+color = "common"
 ratings = "0.5"
 description = """Sideboards here we come!"""
 
 [[green]]
 name = "Netcaster Spider"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Netcaster Spider gives green another line of defense against fliers, which is kind of odd, now that I think about it. Still, this also defends you just fine, though I like it a little less than Mammoth Spider, since Netcaster trades instead of just stopping all the fliers."""
 
 [[green]]
 name = "Nightpack Ambusher"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
 description = """Nightpack Ambusher is a monster. Not only can it eat an attacking 3/3, but it gives you the option of making a Wolf each turn if you’re willing to forgo casting spells. This clearly combines well with other Wolves and instants, but even in a deck with zero synergy, this is incredibly powerful."""
 
 [[green]]
 name = "Overcome"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """The last time we saw Overcome, it didn’t quite deliver. Granted, Hour of Devastation was a strange draft format, but I still think the difference between this and perennial bomb Overrun is a big one. I like this most in creature-heavy decks that lean aggressive, as there are better finishers for control decks."""
 
 [[green]]
 name = "Overgrowth Elemental"
-color = "gold"
+color = "rare"
 ratings = "2.0 // 3.5"
 description = """In an Elemental-heavy deck, this grows out of control very quickly. It offers 4/3 worth of stats immediately (though the counter has to go elsewhere), and will gain life and counters as the game goes on. I’d even be happy playing this with just a couple other Elementals, as you only need either of the two triggers to go off to get a decent deal."""
 
 [[green]]
 name = "Plummet"
-color = "black"
+color = "common"
 ratings = "0.5"
 description = """As always, Plummet is solid sideboard material (and sometimes makes the cut maindeck in Sealed)."""
 
 [[green]]
 name = "Pulse of Murasa"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """Six life is a ton, and makes Pulse worth playing more often than you might expect. Whatever tempo you lose by spending three to draw a card is more than made up for by the life cushion, and this is a great way for your green decks to have a better lategame."""
 
 [[green]]
 name = "Rabid Bite"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """HAUMPH! Rabid Bite is consistently good, and because the other creature doesn’t fight back, there’s much less risk to this than with fight cards."""
 
 [[green]]
 name = "Season of Growth"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
 description = """It’s hard to imagine what the reason for the season is, as this card asks you to have a lot of creatures and a lot of pump spells. I’m skeptical, but maybe in a deck with 5-7 pump spells (or Rabid Bites) this could be worth playing."""
 
 [[green]]
 name = "Sedge Scorpion"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """I’m happy enough using Sedge Scorpion to buy time for my bigger cards, and it even combos very nicely with Rabid Bite. Scorpions and Spiders team up to protect ramp decks, and 1-2 of these seems like a solid way to interact early."""
 
 [[green]]
 name = "Shared Summons"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """Shared Summons being an instant and getting two cards goes a long way for me, as this lets you pick up your two best creatures and proceed from there. I would be more likely to play this if I had some awesome things to get, and recommend against playing this if you’re looking to curve out and attack."""
 
 [[green]]
 name = "Shifting Ceratops"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
 description = """Shifting Ceratops is a house. It would be a fantastic card even without the pro-blue/counterspell stuff, and adding that means some decks will just have no good answers. All of the abilities this can gain are good in different situations, and the base rate on this is absurd to begin with."""
 
 [[green]]
 name = "Silverback Shaman"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Silverback Shaman is awesome. It’s huge, can’t be chump blocked, and gives you a card when it dies, which will be often (unless the opponent just dies instead). It is a five-drop, so you don’t want to just slam infinite of these, but I like it both in aggressive or controlling green decks."""
 
 [[green]]
 name = "Thicket Crasher"
-color = "black"
+color = "common"
 ratings = "2.5"
 description = """I like the cards that are Elementals as a bonus, instead of something you pay for. Thicket Crasher is certainly one of them, as it gives you plenty of stats and a decent ability, with its type as a cherry on top."""
 
 [[green]]
 name = "Thrashing Brontodon"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """BrontyD is efficiently costed and has relevance the entire game, making it a good early pick. This dominates the board early and gives you protection against random artifacts or enchantments, which is an amazing deal for three mana."""
 
 [[green]]
 name = "Veil of Summer"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """I really like Veil of Summer as a sideboard card. It can be an easy two for one if the opponent tries to kill or counter one of your things, and note that you can cycle it if they play any blue or black card, even something like a creature."""
 
 [[green]]
 name = "Vivien, Arkbow Ranger"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
-description = """Vivien has three fantastic abilities, and doesn’t cost much to cast (though triple-green adds a turn or two to her expected drop time). She puts a lot of power and toughness on to the board each turn, and you can put both counters on the same creature if need be. She also usually puts you up a card immediately, as you can play her and Rabid Bite something, so the floor is very high."""
+description = """Vivien has three fantastic abilities, and doesn’t cost much to cast (though triple-green adds a turn or two to her expected drop time). She puts a lot of power and toughness on to the board each turn, and you can put both counters on the same creature if need be. She also usually puts you up a card immediately, as you can play her and Rabid Bite something, so the floor is very high.
+
+Her -5 ability is interesting too. It’s the least powerful one, to be sure, but
+you can still get some value out of it if you run out of creatures to fight or
+put counters on (somehow). What I’d look to do here is keep an expensive dork
+in the sideboard, like an extra Vorstclaw or something, but I wouldn’t put
+anything good there at the expense of your maindeck."""
 
 [[green]]
 name = "Voracious Hydra"
-color = "gold"
+color = "mythic"
 ratings = "4.5"
-description = """As someone who is usually hungry myself, I can relate with the Hydra here. It does give you options, as it can eat the opponent by being a huge monster, or eat one of their creatures while still being reasonably large. The doubling ability is so good that you can cast this for any X starting at 2 and feel paid off, which makes this super flexible when it comes to your curve."""
+description = """As someone who is usually hungry myself, I can relate with the Hydra here. It does give you options, as it can eat the opponent by being a huge monster, or eat one of their creatures while still being reasonably large. The doubling ability is so good that you can cast this for any X starting at 2 and feel paid off, which makes this super flexible when it comes to your curve.
+
+This will often be able to eat reasonably-sized creatures at X = 3+, and that’s often a better option against a deck that has ways to deal with the Hydra. Regardless, you’re getting a great deal, and this is one of the best cards in the set as a result."""
 
 [[green]]
 name = "Vorstclaw"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """While this isn’t the vorst, it’s not the best either (apologies, but I was contractually obligated to make that joke). I’d rather have a 6/6 trample, if such a design exists, but I’ll still play this if my deck needs some extra beef."""
 
 [[green]]
 name = "Wakeroot Elemental"
-color = "gold"
+color = "rare"
 ratings = "1.5 // 3.5"
 description = """Wakeroot Elemental is almost a build-around, as it goes from mediocre to great depending on how likely you are to have five green mana available. If you can consistently make lands into 5/5’s, this is fantastic, and if not, I’d tend to avoid it."""
 
 [[green]]
 name = "Wolfkin Bond"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """I was unimpressed with Wolfkin Bond last time it showed up and I don’t expect that to change. It’s not a ton of stats, it gets blown out by instant-speed removal, and sometimes you draw your five-drop and don’t have anything to put it on."""
 
 [[green]]
 name = "Wolfrider’s Saddle"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Saddle up! This offers you a hard-to-block 3/3 and a persistent bit of value, which is something I’m happy to play. I especially like this with giant green monsters, making this the perfect way for ramp decks to defend themselves in the midgame and pressure the opponent lategame."""
 
 [[green]]
 name = "Woodland Champion"
-color = "gold"
+color = "rare"
 ratings = "1.5 // 3.0"
 description = """Woodland Champion gets out of control very quickly in G/W Tokens with Raise the Alarm, and even has some green cards like Ferocious Pup or Wolfrider’s Saddle that can buff it. You only need one counter for this to be a good deal, so I’d play it even with as few as two ways to make tokens."""
 
 
 [[other]]
 name = "Corpse Knight"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Corpse Knight is a solid beater that pressures the opponent even if it isn’t attacking, and gives tokens decks some extra reach. Imagine how busted this would be as a 2/3?"""
 
 [[other]]
 name = "Creeping Trailblazer"
-color = "gold"
+color = "rare"
 ratings = "3.0 // 3.5"
 description = """By itself, Creeping Trailblazer is a fine card. Its pump ability gives it a minimum of +1/+1, and it’s a 2-drop that can grow a little later. Where it gets really good is in the heavy Elemental deck, as it both pumps other Elementals and becomes a massive threat itself, making it a card I’m happy speculating on early."""
 
 [[other]]
 name = "Empyrean Eagle"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Empyrean Eagle is the best reason to be U/W Fliers, as it’s an efficient beater that can provide a lot of stats if it sticks around. This is exactly what the fliers deck wants to be doing, and I’d take this as a sign that the deck is a good place to be."""
 
 [[other]]
 name = "Ironroot Warlord"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """You don’t need to be a token deck for the Warlord to be great, as it’s going to be plenty large even without trying. The activated ability is nice too, as it’s a fallback if you ever run out of things to do. I like Ironroot Warlord, and would be happy splashing it."""
 
 [[other]]
 name = "Kaalia, Zenith Seeker"
-color = "black"
+color = "common"
 ratings = "1.0 // 2.0"
-description = """This applies to all of the 3-color legends:"""
+description = """This applies to all of the 3-color legends:
+
+The casting costs here are difficult enough that you can’t evaluate the cards as if they are a 3-mana 3/3 flier or a 3-mana 3/4. You are looking to play these around turn 5-6 (or later), so any that are efficiently costed (like Kaalia) lose a lot of their luster. They are also risky early picks, and only a few are worth jumping into without knowing where you are going to end up.
+
+On to Kaalia. I don’t imagine you’ll have many of the types she seeks, which makes me pretty low on her. She’s hard to cast, really just a 3/3 flying vigilance creature, and not worth splashing unless your fixing is awesome."""
 
 [[other]]
 name = "Kethis, the Hidden Hand"
-color = "black"
+color = "common"
 ratings = "1.0"
-description = """Like Kaalia, I wouldn’t play Kethis unless you had perfect 3-color mana, which isn’t likely. His ability is essentially blank in Limited."""
+description = """This applies to all of the 3-color legends:
+
+The casting costs here are difficult enough that you can’t evaluate the cards as if they are a 3-mana 3/3 flier or a 3-mana 3/4. You are looking to play these around turn 5-6 (or later), so any that are efficiently costed (like Kaalia) lose a lot of their luster. They are also risky early picks, and only a few are worth jumping into without knowing where you are going to end up.
+
+Like Kaalia, I wouldn’t play Kethis unless you had perfect 3-color mana, which isn’t likely. His ability is essentially blank in Limited."""
 
 [[other]]
 name = "Kykar, Wind’s Fury"
-color = "gold"
+color = "rare"
 ratings = "3.0"
-description = """Kykar, on the other hand, provides a lot of value if it lives, and note that it triggers off any noncreature spell, not just instants or sorceries. That makes this a powerful enough card to splash in blue-red or white-blue, and a solid build-around."""
+description = """This applies to all of the 3-color legends:
+
+The casting costs here are difficult enough that you can’t evaluate the cards as if they are a 3-mana 3/3 flier or a 3-mana 3/4. You are looking to play these around turn 5-6 (or later), so any that are efficiently costed (like Kaalia) lose a lot of their luster. They are also risky early picks, and only a few are worth jumping into without knowing where you are going to end up.
+
+Kykar, on the other hand, provides a lot of value if it lives, and note that it triggers off any noncreature spell, not just instants or sorceries. That makes this a powerful enough card to splash in blue-red or white-blue, and a solid build-around."""
 
 [[other]]
 name = "Lightning Stormkin"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """BZZZT. Stormkin comes down early and hits immediately, making it a great way to pressure the opponent and a card that will often deal 6-8 damage without trouble. Plus, it’s even an Elemental, which blue-red is a fan of."""
 
 [[other]]
 name = "Moldervine Reclamation"
-color = "gold"
+color = "rare"
 ratings = "1.5 // 3.5"
 description = """In a slow deck or one without creatures, I’d leave this to the mold. In a deck with lots of creatures and token-making, plus maybe a few sacrifice outlets, it becomes a dominating card. It gives you an entire gameplan by itself, and makes the opponent have to jump through hoops to make good attacks."""
 
 [[other]]
 name = "Ogre Siegebreaker"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Ogre Siegebreaker doesn’t feel like a gold signpost uncommon to me, but it is a card I’m fine playing if I’m red/black. The ability is expensive, and you usually traded a card already to get damage on their creatures, so it’s not like you’re going to run away with the game. The stats are fine, and ultimately what makes this playable."""
 
 [[other]]
 name = "Omnath, Locus of the Roil"
-color = "gold"
+color = "mythic"
 ratings = "4.0"
-description = """Omnath is a fantastic splash card. It’s in a 3-color archetype that has a ton of support, and has two very powerful abilities. It will often eat something when it comes down, and getting counters plus making lands 8+ cycle is insane. Omanth is making waves in Constructed and is something I’d be very happy picking early in Limited."""
+description = """This applies to all of the 3-color legends:
+
+The casting costs here are difficult enough that you can’t evaluate the cards as if they are a 3-mana 3/3 flier or a 3-mana 3/4. You are looking to play these around turn 5-6 (or later), so any that are efficiently costed (like Kaalia) lose a lot of their luster. They are also risky early picks, and only a few are worth jumping into without knowing where you are going to end up.
+
+Omnath is a fantastic splash card. It’s in a 3-color archetype that has a ton of support, and has two very powerful abilities. It will often eat something when it comes down, and getting counters plus making lands 8+ cycle is insane. Omanth is making waves in Constructed and is something I’d be very happy picking early in Limited."""
 
 [[other]]
 name = "Risen Reef"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I love Risen Reef, as does everyone else. It’s just so fun, and extremely powerful to boot. I’d look to maximize my number of Elementals, especially with cards that make multiple tokens, but I’m also just playing this in any blue-green deck as a value creature."""
 
 [[other]]
 name = "Skyknight Vanguard"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """While Skyknight Vanguard may get through most of the time, the Soldier coming in attacking is mostly a disadvantage. Unless you have a lot of removal or tricks, the opponent will usually eat the Soldier for free, making this a powerful but inconsistent card."""
 
 [[other]]
 name = "Tomebound Lich"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """This may love books more than I do, and I love books. Tomebound Lich is a great play at any stage of the game, as it cycles through your cards (including one immediately) and can take down anything in combat."""
 
 [[other]]
 name = "Yarok, the Desecrated"
-color = "gold"
+color = "rare"
 ratings = "3.0"
-description = """Yarok is a decent splash, as a 3/5 with deathtouch and lifelink has a big impact on the board. If your mana is good enough (3+ free sources), I’d play Yarok without any ETB abilities, and once you have a couple good creatures with ETB abilities, Yarok’s value goes up meaningfully."""
+description = """This applies to all of the 3-color legends:
 
-[[other]]
-name = "Artifacts"
-color = "black"
-ratings = "NaN"
-description = """Limited: 1.5"""
+The casting costs here are difficult enough that you can’t evaluate the cards as if they are a 3-mana 3/3 flier or a 3-mana 3/4. You are looking to play these around turn 5-6 (or later), so any that are efficiently costed (like Kaalia) lose a lot of their luster. They are also risky early picks, and only a few are worth jumping into without knowing where you are going to end up.
+
+Yarok is a decent splash, as a 3/5 with deathtouch and lifelink has a big impact on the board. If your mana is good enough (3+ free sources), I’d play Yarok without any ETB abilities, and once you have a couple good creatures with ETB abilities, Yarok’s value goes up meaningfully."""
 
 [[other]]
 name = "Anvilwrought Raptor"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Much like 2019 Josh Utter-Leyton, Anvilwrought Raptor can win games but isn’t my first pick. It gets a little mileage from the flier build-arounds, but is expensive enough that I’d default to not playing it."""
 
 [[other]]
 name = "Bag of Holding"
-color = "gold"
+color = "rare"
 ratings = "3.0"
-description = """Flavor: 5.0"""
+description = """Flavor: 5.0
+
+Bag of Holding is insanely good flavor, as it’s the perfect top-down from the Dungeons and Dragons item of the same name. This is a good way to grind out a long game, and sometimes even protects you against Mind Rot or Duress. Bag of Holding is cheap enough that I’d even play it in fast decks, as it’s a fine fallback plan for when you need to close out the game."""
 
 [[other]]
 name = "Colossus Hammer"
-color = "black"
+color = "common"
 ratings = "0.5"
 description = """Colossus Hammer is super expensive, and instead of granting evasion it actually removes it. That makes me wary about playing it, and would only play this if I had multiple Renowned Weaponsmiths to pay for the cost."""
 
 [[other]]
 name = "Diamond Knight"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """If your deck is about 2/3 of the same color, Diamond Knight is a fine option. It takes two spells to break even and three to get an advantage, making it a poor topdeck and overall a card I’m not looking to bet on."""
 
 [[other]]
 name = "Diviner’s Lockbox"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """Paying five mana to draw three cards is passable, but not exciting, and this is so much worse than that. Keep the box closed, no matter what combos you may have with it."""
 
 [[other]]
 name = "Golos, Tireless Pilgrim"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """I like Golos as an early pick. It’s big and gives you an extra land, and that land doesn’t even have to be a basic. It also pushes you towards a 3-color deck, and once you’re there, I don’t mind playing an extra basic / dual in order to be able to produce all five colors. If you activate Golos, you will win the game in very short order."""
 
 [[other]]
 name = "Grafdigger’s Cage"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """This stops maybe 2-3 cards in the entire set, if that. Do not play it."""
 
 [[other]]
 name = "Heart-Piercer Bow"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """I mostly like the Bow as a sideboard card against 1-toughness creatures, though it gains a little utility from Renowned Weaponsmith. Note that the templating is weird, and this is sadly not a combo with deathtouch creatures."""
 
 [[other]]
 name = "Icon of Ancestry"
-color = "gold"
+color = "rare"
 ratings = "1.0 // 3.0"
 description = """Once you have 6-7 creatures of the same time (likely Elementals), Icon becomes playable. The dig ability helps a lot, as it gives you something to do when you stall out, and of course combines nicely with the pump ability."""
 
 [[other]]
 name = "Manifold Key"
-color = "black"
+color = "common"
 ratings = "0.5"
 description = """The best use for this (besides untapping Time Vault) is as a sideboard card in a matchup where the board stalls out. That’s thin, and I wouldn’t look for this to be the key in most games."""
 
 [[other]]
 name = "Marauder’s Axe"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """In a low-curve deck with token generation or fliers, Marauder’s Axe can do some real damage. I’d mostly stay away from it, but it can overperform if you have enough dorks that either have evasion or you don’t care if they die."""
 
 [[other]]
 name = "Meteor Golem"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """At seven, this is a little pricey, but it goes a long way towards stabilizing the board once it hits. It’s also colorless, and a fine early pick as a result. I especially like it in black decks with Soul Salvage effects."""
 
 [[other]]
 name = "Mystic Forge"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """There is no way you will assemble enough colorless cards to make this do anything, so I’d just forge(t) it."""
 
 [[other]]
 name = "Pattern Matcher"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """With even one set of doubles, I’d play Pattern Matcher, because the upside is real. Once you have 2-3 pairs to go get, this becomes very sweet, though I’m concerned about what it’s doing with that rabbit."""
 
 [[other]]
 name = "Prismite"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """This was mediocre in WAR and I expect it to be about the same here, despite the overall power level being a bit lower."""
 
 [[other]]
 name = "Retributive Wand"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """I mostly am looking to sideboard the Wand in against decks that are vulnerable to it, as it’s a little too slow of a card to play maindeck."""
 
 [[other]]
 name = "Salvager of Ruin"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """I’ll leave the Teshar combos to Matt Nass, and try and avoid playing this in my Limited decks. At best, this trades 1-for-1, but it has to be in play the turn your good thing dies, which is a bit narrow."""
 
 [[other]]
 name = "Scuttlemutt"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Changing colors is cute in a land of color hosers, and Scuttlemutt pays for itself by tapping for mana. If you’re two colors and don’t have any combos, its fine to leave this on the bench, but I’d be happy playing almost all the time."""
 
 [[other]]
 name = "Steel Overseer"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """Even if this isn’t the menace that it is in Modern, Steel Overseer is a 2-drop that grows itself very rapidly. That’s worth playing, and I don’t mind taking this early."""
 
 [[other]]
 name = "Stone Golem"
-color = "black"
+color = "common"
 ratings = "1.0"
 description = """If you need a random beater, this mostly does the trick, though I’d be unhappy if I had to play this."""
 
 [[other]]
 name = "Vial of Dragonfire"
-color = "black"
+color = "common"
 ratings = "1.5"
 description = """Like Heart-Piercer Bow, this gets carried by the Weaponsmith more than on its own merits, and I mostly like it as a sideboard card against fliers."""
 
 [[other]]
 name = "Lifegain Lands (Bloodfell Caves cycle)"
-color = "black"
-ratings = "NaN"
-description = """Cryptic Caves"""
+color = "rare"
+ratings = "3.0"
+description = """All of these lands are nice additions to any 2-color deck, and
+make splashing a third color much easier. I tend to take them a little higher
+than average playables, but under anything premium."""
 
 [[other]]
 name = "Cryptic Caves"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """If your deck can afford a colorless land, I’d be happy to play Cryptic Caves. Cycling from play is good flexibility, and can help prevent flood."""
 
 [[other]]
 name = "Evolving Wilds"
-color = "gold"
+color = "rare"
 ratings = "3.0"
 description = """This is about the same as the gain life lands, though it’s better earlier in the draft due to flexibility."""
 
 [[other]]
 name = "Field of the Dead"
-color = "black"
+color = "common"
 ratings = "0.0"
 description = """I don’t see how you are pulling this off in Limited, though it would be cute if you did."""
 
 [[other]]
 name = "Lotus Field"
-color = "black"
+color = "common"
 ratings = "2.0"
 description = """In a 3-color deck, this is still worth playing, though the risk of ruin is higher than I’d like (drawing this plus one normal land)."""
 
 [[other]]
 name = "Temples"
-color = "gold"
+color = "rare"
 ratings = "3.5"
 description = """Scry 1 is a real advantage, and I’d take these Temples aggressively. They are rare, so it doesn’t come up a ton, but treat them like real playables (and play them even when half on color)."""

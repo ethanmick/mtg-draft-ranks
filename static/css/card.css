@@ -1,9 +1,14 @@
+.other li:nth-child(5n) {
+    flex-basis: 100%;
+}
+
 .card .description {
   position: absolute;
   width: 300px;
   top: 0;
   left: 150px;
   display: none;
+  white-space: pre-line;
 }
 
 .name:hover + .description {
@@ -17,3 +22,16 @@
 .description:hover {
   display: block;
 }
+
+.mythic {
+  color: #ff6300;
+}
+
+.rare {
+  color: #ffb700;
+}
+
+.common {
+  color: black;
+}
+
