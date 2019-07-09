@@ -52,28 +52,28 @@
   {{ range $.Site.Data.lsv }}
   <div class="w-100 pa4">
     <h2 class="fw3">Gold/Artifact/Lands</h2>
-    <div class="flex">
-      <ul class="other list pl0 w-20">
+    <div class="flex flex-wrap">
+      <ul class="other list pl0 mb0 mb3-l w-100 w-33-ns w-50-m w-20-l">
         {{ range first 9 .other }}
           {{ partial "card.html" . }}
         {{ end  }}
       </ul>
-      <ul class="other list pl0 w-20">
+      <ul class="other list pl0 ma0 mv3-l w-100 w-33-ns w-50-m w-20-l">
         {{ range first 9 (after 9 .other) }}
           {{ partial "card.html" . }}
         {{ end  }}
       </ul>
-      <ul class="other list pl0 w-20">
+      <ul class="other list pl0 ma0 mv3-l w-100 w-33-ns w-50-m w-20-l">
         {{ range first 9 (after 18 .other) }}
           {{ partial "card.html" . }}
         {{ end  }}
       </ul>
-      <ul class="other list pl0 w-20">
+      <ul class="other list pl0 ma0 mv3-l w-100 w-33-ns w-50-m w-20-l">
         {{ range first 9 (after 27 .other) }}
           {{ partial "card.html" . }}
         {{ end  }}
       </ul>
-      <ul class="other list pl0 w-20">
+      <ul class="other list pl0 mt0 mv3-l w-100 w-33-ns w-50-m w-20-l">
         {{ range first 9 (after 36 .other) }}
           {{ partial "card.html" . }}
         {{ end  }}

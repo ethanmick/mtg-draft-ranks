@@ -5,11 +5,19 @@
 .card .description {
   position: absolute;
   width: 300px;
-  top: 0;
-  left: 150px;
+  top: 25px;
+  left: 0px;
   display: none;
   white-space: pre-line;
 }
+
+@media only screen and (min-width: 768px) {
+  .card .description {
+    top: 0;
+    left: 150px;
+  }
+}
+
 
 .name:hover + .description {
     display: block;
