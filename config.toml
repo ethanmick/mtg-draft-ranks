@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "MTG Draft Ranks"
+theme = "ananke"
+
+[params]
+  custom_css = ["css/card.css"]

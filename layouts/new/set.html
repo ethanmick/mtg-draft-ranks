@@ -1,0 +1,63 @@
+{{ define "main" }}
+<section id="main">
+  {{ range $.Site.Data.lsv }}
+  <div class="flex flex-wrap">
+    <div class="pa4 w-100 w-33-ns w-50-m w-20-l">
+      <h2 class="fw3">White</h2>
+      <ul class="list pl0">
+        {{ range .white }}
+        {{ partial "card.html" . }}
+        {{ end  }}
+      </ul>
+    </div>
+
+    <div class="pa4 w-100 w-33-ns w-50-m w-20-l">
+      <h2 class="fw3">Blue</h2>
+      <ul class="list pl0">
+        {{ range .blue }}
+        {{ partial "card.html" . }}
+        {{ end  }}
+      </ul>
+    </div>
+
+    <div class="pa4 w-100 w-33-ns w-50-m w-20-l">
+      <h2 class="fw3">Black</h2>
+      <ul class="list pl0">
+        {{ range .black }}
+        {{ partial "card.html" . }}
+        {{ end  }}
+      </ul>
+    </div>
+
+    <div class="pa4 w-100 w-33-ns w-50-m w-20-l">
+      <h2 class="fw3">Red</h2>
+      <ul class="list pl0">
+        {{ range .red }}
+        {{ partial "card.html" . }}
+        {{ end  }}
+      </ul>
+    </div>
+
+    <div class="pa4 w-100 w-33-ns w-50-m w-20-l">
+      <h2 class="fw3">Green</h2>
+      <ul class="list pl0">
+        {{ range .green }}
+        {{ partial "card.html" . }}
+        {{ end  }}
+      </ul>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ range $.Site.Data.lsv }}
+  <div class="w-100 pa4">
+    <h2 class="fw3">Gold/Artifact/Lands</h2>
+    <ul class="list pl0">
+      {{ range .other }}
+      {{ partial "card.html" . }}
+      {{ end  }}
+    </ul>
+  </div>
+  {{ end }}
+</section>
+{{ end }}

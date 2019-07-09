@@ -1,0 +1,19 @@
+.card .description {
+  position: absolute;
+  width: 300px;
+  top: 0;
+  left: 150px;
+  display: none;
+}
+
+.name:hover + .description {
+    display: block;
+}
+
+.name:focus + .description {
+    display: block;
+}
+
+.description:hover {
+  display: block;
+}
